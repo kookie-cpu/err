@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fa-brands.fa-discord{
+    color: black;
+    font-size: 30px;
+    letter-spacing: 10px;
+    align-items: center;
+    padding-left: 4px;
+    padding-top: 7px;
+    
+}
+
+.discord{
+    height: 45px;
+    width: 45px;
+    background: white;
+    border: 3px solid black;
+    align-items: center;
+    border-radius: 50%;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
+#osos{
+    display: flex;
+    margin-left: 400px;
+    margin-top: 0px;
+}
+.insta{
+    height: 45px;
+    width: 45px;
+    background: white;
+    border: 3px solid black;
+    align-items: center;
+    border-radius: 50%;
+    margin-left: 30px;
+}
+.fa-brands.fa-instagram{
+    color: black;
+    font-size: 30px;
+    letter-spacing: 10px;
+    align-items: center;
+    padding-left: 10px;
+    padding-top: 8px;
+    
+}
+.yt{
+    height: 45px;
+    width: 45px;
+    background: white;
+    border: 3px solid black;
+    align-items: center;
+    border-radius: 50%;
+}
+.fa-brands.fa-youtube{
+    color: black;
+    font-size: 30px;
+    letter-spacing: 10px;
+    align-items: center;
+    padding-left: 6px;
+    padding-top: 8px;
+    
+}
+.music{
+    height: 45px;
+    width: 45px;
+    background: white;
+    border: 3px solid black;
+    align-items: center;
+    border-radius: 50%;
+}
+.fa-brands.fa-spotify{
+    color: black;
+    font-size: 30px;
+    letter-spacing: 10px;
+    align-items: center;
+    padding-left: 9px;
+    padding-top: 8px;
+}
+.github{
+    height: 45px;
+    width: 45px;
+    background: white;
+    border: 3px solid black;
+    align-items: center;
+    border-radius: 50%;
+}
+.fa-brands.fa-github{
+    color: black;
+    font-size: 30px;
+    letter-spacing: 10px;
+    align-items: center;
+    padding-left: 8px;
+    padding-top: 8px;
+}
+.lobster{
+    margin-left: 510px;
+    margin-top: 300px;
+}
